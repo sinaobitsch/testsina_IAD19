@@ -1,0 +1,14 @@
+h1 {
+color: red;
+font-family: verdana;
+font-size: 200%;
+}
+
+p {
+  color: white;
+}
+div {
+  width: 38rem;
+  margin: 0 auto;
+  background-color: green;
+}
